@@ -3,6 +3,8 @@ Created at my first hackathon ever, LA Hacks 2016. For some reason, I had troubl
 
 Multiple balls at a time. Whenever a ball hits a goal, the frame restarts. This is a bit buggy as of now.
 
+IN ORDER TO RUN EXECUTABLE: Pong_Data also must be downloaded and put in the same directory as pong.exe.
+
 2) Controls
 WASD: Player 1 Paddle movement
 IJKL: Player 2 Paddle movement
